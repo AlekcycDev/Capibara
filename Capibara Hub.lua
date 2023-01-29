@@ -15,7 +15,7 @@ local settings = {
 
  local chatrem = game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest
 
-local Home = UI:addPage("Home",1,true,6)
+local Home = UI:addPage("Home",0.5,true,6)
 
 Home:addLabel("Main Page","Just scripts")
 
